@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Display&display=swap');
+
+.card{
+    display: flex;
+    flex-direction: row;
+    padding: 30px;
+}
+
+.bloc1{
+background-color: hsl(31, 77%, 52%);
+border-top-left-radius: 7px;
+border-bottom-left-radius: 7px;
+padding: 40px;
+}
+
+.bloc2{
+background-color: hsl(184, 100%, 22%);
+padding: 40px;
+}
+
+.bloc3{
+background-color: hsl(179, 100%, 13%);
+border-top-right-radius: 7px;
+border-bottom-right-radius: 7px;
+padding: 40px;
+}
+
+.titre1{
+color: hsla(0, 0%, 100%, 0.75);
+font-family: 'Big Shoulders Display', cursive;
+font-weight: bolder;
+font-size: 60px;
+padding-left: 30px;
+}
+
+.titre2{
+color: hsla(0, 0%, 100%, 0.75);
+font-family: 'Big Shoulders Display', cursive;
+font-weight: bolder;
+font-size: 60px;
+padding-left: 30px;
+}
+
+.titre3{
+color: hsla(0, 0%, 100%, 0.75);
+font-family: 'Big Shoulders Display', cursive;
+font-weight: bolder;
+font-size: 60px;
+padding-left: 30px;
+}
+
+.texte1{
+color: hsla(0, 0%, 100%, 0.75);
+font-family: 'Big Shoulders Display', cursive;
+padding-left: 30px;
+padding-bottom: 30px;
+padding-top: 30px;
+}
+
+.texte2{
+color: hsla(0, 0%, 100%, 0.75);
+font-family: 'Big Shoulders Display', cursive;
+padding-left: 30px;
+padding-bottom: 30px;
+padding-top: 30px;
+}
+
+.texte3{
+color: hsla(0, 0%, 100%, 0.75);
+font-family: 'Big Shoulders Display', cursive;
+padding-left: 30px;
+padding-bottom: 30px;
+padding-top: 30px;
+}
+
+button{
+    background-color: hsla(0, 0%, 100%, 0.75);
+    border-radius: 16px;
+    border-width: 0;
+    font-family: 'Big Shoulders Display', cursive;
+    padding: 10px;
+    margin-left: 30px;
+
+}
